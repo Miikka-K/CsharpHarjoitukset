@@ -1,0 +1,2 @@
+# CsharpHarjoitukset
+Ensmäiset C# harjoitukset
